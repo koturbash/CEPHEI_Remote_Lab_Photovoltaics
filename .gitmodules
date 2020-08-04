@@ -5,3 +5,4 @@
 [submodule "CEPHEI_LocalDriver"]
 	path = CEPHEI_LocalDriver
 	url = https://github.com/Mrsanyor/CEPHEI_LocalDriver
+	branch = master
