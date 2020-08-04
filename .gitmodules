@@ -1,3 +1,7 @@
 [submodule "CEPHEI_SolarPanels"]
 	path = CEPHEI_SolarPanels
 	url = https://github.com/andreamper220/CEPHEI_SolarPanels.git
+	branch = master
+[submodule "CEPHEI_LocalDriver"]
+	path = CEPHEI_LocalDriver
+	url = https://github.com/Mrsanyor/CEPHEI_LocalDriver
