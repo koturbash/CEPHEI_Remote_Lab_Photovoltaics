@@ -6,3 +6,7 @@
 	path = CEPHEI_LocalDriver
 	url = https://github.com/Mrsanyor/CEPHEI_LocalDriver
 	branch = master
+[submodule "CEPHEI_WebLab"]
+	path = CEPHEI_WebLab
+	url = https://github.com/Ice-Gi/CEPHEI_WebLab
+	branch = master
